@@ -1,8 +1,6 @@
-# React + Vite
+I create a github person searcher using React and GitHub API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/necatidogrul/react-github-api/assets/66124061/84792325-cfb3-4e0a-8f0b-86305722367a)
 
-Currently, two official plugins are available:
+![image](https://github.com/necatidogrul/react-github-api/assets/66124061/52215068-1d6c-43dc-ba2e-c9fa73b0329f)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
